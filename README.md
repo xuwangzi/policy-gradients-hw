@@ -1,3 +1,5 @@
+# CS285 hw2: Policy Gradients
+
 ## Setup
 
 See [installation.md](installation.md). It's worth going through this again since some dependencies have changed since homework 1. You also need to make sure to run `pip install -e .` in the hw2 folder.
