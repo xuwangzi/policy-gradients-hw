@@ -1,5 +1,13 @@
 # CS285 hw2: Policy Gradients
 
+## Policy Gradients 公式推导
+
+![formula_derivation_1](README.assets/formula_derivation_1.jpg)
+
+![formula_derivation_2](README.assets/formula_derivation_2.jpg)
+
+![formula_derivation_3](README.assets/formula_derivation_3.jpg)
+
 ## Setup
 
 See [installation.md](installation.md). It's worth going through this again since some dependencies have changed since homework 1. You also need to make sure to run `pip install -e .` in the hw2 folder.
